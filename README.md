@@ -14,14 +14,14 @@ The users should be able to:
 *more about the chellenge [here](https://github.com/Enas-Ijaabo/Shortly-URL-shortening-API-Challenge/blob/master/AboutChallenge.md)*
 
 
-#technologies:
+# technologies:
 
 - HTML
 - CSS
 - JavaScript
 
 
-#Project Files
+# Project Files
 
 - [HTML_file](https://github.com/Enas-Ijaabo/Shortly-URL-shortening-API-Challenge/blob/master/index.html)
 - [CSS_File](https://github.com/Enas-Ijaabo/Shortly-URL-shortening-API-Challenge/blob/master/style.css)
